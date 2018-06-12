@@ -1,0 +1,15 @@
+{
+  "name":         "Yajl",
+  "version":      "0.1",
+  "description":  "This object can be used to parse Yajl / HTML / XML.",
+  "author":       "Steve Dekorte",
+  "website":      "http://iolanguage.org/",
+  "readme":       "README.md",
+  "protos":       ["Yajl"],
+  "dependencies": {
+    "libs":     ["yajl"],
+    "headers":  ["yajl/yajl_common.h", "yajl/yajl_gen.h","yajl/yajl_parse.h"],
+    "protos":   [],
+    "packages": []
+  }
+}
